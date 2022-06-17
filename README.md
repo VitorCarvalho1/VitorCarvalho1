@@ -7,5 +7,5 @@
 <p>Você está com vontade de conversar comigo?</p>
 
 💬 Adicione-me no discord: Hiro#5091 <br>
-📫 Envie-me um Email: vitorhugo.carvalho2@yahoo.com.br<br>
-👥 Adicione-me no Linkedin: <a>linkedin.com/in/vitorcarvalhoweb/</a><br>
+📫 Envie-me um Email: <a href="mailto:vitorhugo.carvalho2@yahoo.com.br">Vitorhugo.Carvalho</a><br>
+👥 Adicione-me no Linkedin: <a href="linkedin.com/in/vitorcarvalhoweb/">VitorHugoCarvalho</a><br>

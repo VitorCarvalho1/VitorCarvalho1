@@ -8,4 +8,4 @@
 
 💬 Adicione-me no discord: Hiro#5091 <br>
 📫 Envie-me um Email: <a href="mailto:vitorhugo.carvalho2@yahoo.com.br">Vitorhugo.Carvalho</a><br>
-👥 Adicione-me no Linkedin: <a href="linkedin.com/in/vitorcarvalhoweb/">VitorHugoCarvalho</a><br>
+👥 Adicione-me no Linkedin: <a href="https://www.linkedin.com/in/vitorcarvalhoweb/">VitorHugoCarvalho</a><br>

@@ -12,6 +12,8 @@
 
 <br>
 <h2>Habilidades</h2>
+<div display="inline">
 <img src="./icons/html-5.png" width="70px"/>
 <img src="./icons/css-3.png" width="70px"/>
 <img src="./icons/js.png" width="60px"/>
+</div>

@@ -1,4 +1,4 @@
-<img align="right" src="https://www.grmdocumentmanagement.com/wp-content/uploads/2020/10/medical-coding-workflow.png" width="300"/>
+<img align="right" src="./icons/istockphoto-1286019334-612x612.jpg" width="300"/>
 
 ## 👋 Bem-vindo ao meu github
 <br>

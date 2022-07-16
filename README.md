@@ -1,6 +1,6 @@
 <img align="right" src="https://www.grmdocumentmanagement.com/wp-content/uploads/2020/10/medical-coding-workflow.png" width="300"/>
 
-## 👋 Bem-vindo ao meu github
+## 👋 Bem-vindo ao meu perfil do github
 <br>
 <p>Meu nome é Vitor Hugo, tenho 22 anos e moro no Brasil. Atualmente sou Desenvolvedor Front-End, com experiência em HTML, CSS e JavaScript. ⚡</p>
 

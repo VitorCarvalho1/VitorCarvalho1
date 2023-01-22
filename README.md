@@ -2,7 +2,7 @@
 
 ## 👋 Bem-vindo ao meu perfil do github
 <br>
-<p>Meu nome é Vitor Hugo, tenho 22 anos e sou de Tupã/SP. Atualmente sou Desenvolvedor Front-End, com experiência em HTML, CSS e JavaScript. ⚡</p>
+<p>Meu nome é Vitor Hugo, tenho 23 anos e sou de Tupã/SP. Atualmente sou Desenvolvedor Front-End, com experiência em HTML, CSS e JavaScript. ⚡</p>
 
 <p>Informações para contato: </p>
 
